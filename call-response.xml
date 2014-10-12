@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Say voice="woman">Thanks for calling the CSS Dev Conf Text Voting Line. Please text your vote at (504) 299-6828 using you’re favorite mobile device. When casting your vote, the first text should be the hashtag of the session. Then a space. Then a rating of the session, which has a value of 1 to 5 (5 being the best). After the number rating, add another space and then add any additional comments you’d like to send in.</Say>
+</Response>
